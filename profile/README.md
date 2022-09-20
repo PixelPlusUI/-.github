@@ -1,4 +1,4 @@
-![Source Code](https://i.imgur.com/McX7NrA.png)
+![Source Code](https://i.imgur.com/WdaXqHe.png)
 
 ### Welcome to the PixelPlusUI /////////////// [![Download PixelPlusUI](https://img.shields.io/sourceforge/dt/pixelplusui-project.svg)](https://ppui.site/download)
 
@@ -10,15 +10,15 @@ Basics that you need to know to bring your device to official device list!
 
 To get started, you gonna have to check the following repositories:
 
-* [**Manifest**](https://github.com/PixelPlusUI-SnowCone/manifest)
-* [**Vendor**](https://github.com/PixelPlusUI-SnowCone/vendor_aosp)
+* [**Manifest**](https://github.com/PixelPlusUI/manifest)
+* [**Vendor**](https://github.com/PixelPlusUI/vendor_aosp)
 * [**PixelPlusUI-Devices**](https://github.com/PixelPlusUI-Devices)
 
 Now that we mentioned the important repositories for building and reference, if you want you can checkout some requirements to join us, 
 
-* [**Maintainers requirements**](https://github.com/PixelPlusUI-SnowCone/Documentation/blob/twelve/maintainers_requirements.md)
-* [**Device requirements**](https://github.com/PixelPlusUI-SnowCone/Documentation/blob/twelve/device_requirements.md)
-* [**XDA Template**](https://raw.githubusercontent.com/PixelPlusUI-SnowCone/Documentation/twelve/ppui_xda.txt)
+* [**Maintainers requirements**](https://github.com/PixelPlusUI/Documentation/blob/tiramisu/maintainers_requirements.md)
+* [**Device requirements**](https://github.com/PixelPlusUI/Documentation/blob/tiramisu/device_requirements.md)
+* [**XDA Template**](https://raw.githubusercontent.com/PixelPlusUI/Documentation/tiramisu/ppui_xda.txt)
 
 Have you done it already? Okay, good. Now if you need to contact us, well, you may ask in our [Telegram](https://t.me/ppuichat) Support Group, ~~we may or may not answer.~~
 
@@ -29,11 +29,16 @@ Have you done it already? Okay, good. Now if you need to contact us, well, you m
  * [**Changelog**](https://ppui.site/changelog)
  * [**Telegram Discussion Group**](https://t.me/ppuichat)
 
-### If you have liked our work and want to support us please consider donating for servers
+### Do consider donating or buying me a coffee on Paypal if you want to appreciate our work or join us on Patreon for sustainable support and early build access.
 
 ```bash
-PAYTM UPI ID : dwarmachine24@paytm
+Patreon : https://www.patreon.com/join/uglykid24
+```
+```bash
 GPAY UPI ID: dwarmachine24@oksbi
+```
+```bash
 PAYPAL: https://www.paypal.me/uglykid24
 ```
+
 
